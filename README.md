@@ -40,11 +40,11 @@ Set build directory to *project-root/build*.
 
 ![Alt text](doc/cmake-generate.PNG)
 
-3. Build the project
+6. Build the project
 
-  1. Go to build folder
-  2. Open *neon.sln* file
-  3. Make *neon-sandbox* as startup project and build it
+- Go to build folder
+- Open *neon.sln* file
+- Make *neon-sandbox* as startup project and build it
 
 ## For *linux* user
 
