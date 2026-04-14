@@ -3,6 +3,8 @@
 Neon is a minimal ray tracer written in C++. Originally, It was wrrtien for my own learning
 purpose. This is part of the ray tracer which can be used as base code for assignment in 
 the Computer Graphics course at GIST.
+ 
+![Result](doc/NoDLS_1024x512_spp1024.PNG)
 
 
 # Installation 
@@ -23,7 +25,8 @@ git clone https://github.com/junho1218/physically-based-ray-tracer.git
 You need to re-run cmake whenever you add more source files (\*.h, \*.cpp)
 
 3. Set path for build and source folder
-  ![cmake-gui-setup](doc/cmake-gui-setup.PNG)
+
+![cmake-gui-setup](doc/cmake-gui-setup.PNG)
 
 Set source code directory to *project-root*.
 
@@ -31,11 +34,11 @@ Set build directory to *project-root/build*.
 
 4. Configure
 
-  ![Alt text](doc/cmake-configure.PNG)
+![Alt text](doc/cmake-configure.PNG)
 
 5. Generate
 
-  ![Alt text](doc/cmake-generate.PNG)
+![Alt text](doc/cmake-generate.PNG)
 
 3. Build the project
 
