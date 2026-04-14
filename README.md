@@ -4,7 +4,7 @@ Neon is a minimal ray tracer written in C++. Originally, It was wrrtien for my o
 purpose. This is part of the ray tracer which can be used as base code for assignment in 
 the Computer Graphics course at GIST.
  
-![Result](doc/NoDLS_1024x512_spp1024.PNG)
+![Result](doc/NoDLS_1024x512_spp1024.png)
 
 
 # Installation 
